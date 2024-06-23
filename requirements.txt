@@ -1,2 +1,12 @@
-transformers
-typing_extensions
+fastparquet
+jinja2
+pyarrow
+transformers~=4.41.2
+typing_extensions~=4.12.2
+psutil
+requests~=2.32.3
+numpy~=2.0.0
+tqdm~=4.66.4
+regex~=2024.5.15
+safetensors~=0.4.3
+pandas~=2.2.2
